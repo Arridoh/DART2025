@@ -23,4 +23,5 @@ void main() {
   print("Gaji Kotor\t: Rp.$gajiKotor");
   print("Pajak\t\t: Rp.$pajak");
   print("Gaji Bersih\t: Rp.$gajiBersih");
+  
 }
