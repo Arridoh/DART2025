@@ -2,6 +2,13 @@
 
 ---
 
+## Identitas Saya:
+* Nama   : M. Arridoh Fuad
+* NPM    : 07352311153
+* kelas  : 5IF2
+
+---
+
 ## Deskripsi:
 Fungsi utama program ini adalah untuk mengubah skor ujian numerik dalam range 0 sampai 100 yang dimasukkan oleh pengguna menjadi nilai huruf (grade) berdasarkan standar penilaian yang telah ditentukan.
 Program ini dirancang agar mudah digunakan, mencegah kesalahan inputan, dan ditulis menggunakan sintaks Dart modern.

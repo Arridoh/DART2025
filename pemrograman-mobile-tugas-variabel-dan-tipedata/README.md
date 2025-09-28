@@ -1,8 +1,19 @@
 
 # Program Penghitungan Gaji Karyawan Sederhana
 
+---
+
+## Identitas Saya:
+* Nama   : M. Arridoh Fuad
+* NPM    : 07352311153
+* kelas  : 5IF2
+
+---
+
 ## Deskripsi:
 Program ini menghitung gaji karyawan berdasarkan jam kerja, upah per jam, dan status karyawan (karyawan tetap atau kontrak). Program ini juga menghitung gaji kotor, pajak yang harus dibayar, dan gaji bersih setelah dikurangi pajak. Dan menampilkannya sebagai output.
+
+---
 
 ## Cara Menjalankan Program:
 1. Buka terminal atau command prompt.
