@@ -1,4 +1,4 @@
-# Program Penghitungan Gaji Karyawan Sederhana
+# Program menentukan nilai (grade)
 
 ---
 
