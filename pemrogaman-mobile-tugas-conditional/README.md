@@ -2,7 +2,7 @@
 
 ---
 
-## Identitas Saya:
+## Identitas:
 * Nama   : M. Arridoh Fuad
 * NPM    : 07352311153
 * kelas  : 5IF2
