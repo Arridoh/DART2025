@@ -3,4 +3,5 @@
 ## 10/11/2025
 
 AI (gemini) link For new Flutter project.
-[text]<https://gemini.google.com/share/3941b9294531>
+
+<https://gemini.google.com/share/3941b9294531>
